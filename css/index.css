@@ -1,3 +1,12 @@
+header {
+  background-color: pink;
+}
+
+footer {
+  background-color: pink;
+  height: 50px;
+}
+
 .inline-code {
   font-family: Consolas, "courier new";
   color: crimson;
