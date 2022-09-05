@@ -1,10 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
 header {
-  background-color: pink;
 }
 
 footer {
-  background-color: pink;
   height: 50px;
+}
+
+.layout-component {
+  background-color: pink;
 }
 
 .inline-code {
